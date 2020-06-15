@@ -1,0 +1,198 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": true,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"bundle": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.11.0",
+	"appid": "wx49245336aaa79b1d",
+	"projectname": "WeStudy",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": 0,
+					"name": "pages/index/index",
+					"pathName": "pages/index/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/person",
+					"pathName": "pages/person/person",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/person/edit/editer",
+					"pathName": "pages/person/edit/editer",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/person/person",
+					"pathName": "pages/person/person",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/share",
+					"pathName": "pages/share/share",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/share/share",
+					"pathName": "pages/share/share",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/share/sharelist",
+					"pathName": "pages/share/sharelist",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/test",
+					"pathName": "pages/test/text",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/answer",
+					"pathName": "pages/answer/answer",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/page",
+					"pathName": "pages/page/page",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/pages/pages",
+					"pathName": "pages/pages/pages",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/pages/",
+					"pathName": "pages/pages/question",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/question",
+					"pathName": "pages/question/question",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/question",
+					"pathName": "pages/question/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/questions/index",
+					"pathName": "pages/questions/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/questions/answers",
+					"pathName": "pages/questions/answers",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/notify",
+					"pathName": "pages/notify/notify",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/share/share_backup",
+					"pathName": "pages/share/share_backup",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/conn/",
+					"pathName": "pages/conn/test",
+					"scene": null
+				}
+			]
+		}
+	}
+}
